@@ -5,6 +5,9 @@
 <h1 align="center">Abinaya S</h1>
 <p align="center"><strong>CSE student · full-stack developer · curious builder</strong></p>
 <p align="center">I build practical web experiences and explore how thoughtful software can solve everyday problems.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abinaya-s-45a413381"><img src="https://img.shields.io/badge/LinkedIn-Connect-6f7faf?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Abinaya on LinkedIn" /></a>
+</p>
 
 ---
 
@@ -33,12 +36,12 @@
 ### GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abinayaselvaraj2425&show_icons=true&hide_border=true&bg_color=0d1117&title_color=82aaff&text_color=c9d1d9&icon_color=c099ff" alt="Abinaya's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayaselvaraj2425&layout=compact&hide_border=true&bg_color=0d1117&title_color=82aaff&text_color=c9d1d9" alt="Abinaya's most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abinayaselvaraj2425&theme=github_dark" alt="Abinaya's GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abinayaselvaraj2425&theme=github_dark" alt="Abinaya's top languages by repository" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinayaselvaraj2425&bg_color=0d1117&color=c9d1d9&line=82aaff&point=c099ff&area=true&hide_border=true" alt="Abinaya's contribution activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinayaselvaraj2425&theme=github_dark" alt="Abinaya's GitHub contribution timeline" />
 </p>
 
 ---
